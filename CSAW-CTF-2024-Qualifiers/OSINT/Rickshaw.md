@@ -1,4 +1,4 @@
-![[Images/rickshaw.png]]
+![image](/CSAW-CTF-2024-Qualifiers/OSINT/Images/rickshaw.png)
 
 For this challenge we need to find the phone number of the owner of this vehicule.
 After looking on google for the first 4 characters of this pressure plate we realise this rickshaw is owned by the US ambassy in India
