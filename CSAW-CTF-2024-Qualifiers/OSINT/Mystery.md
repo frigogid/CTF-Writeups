@@ -1,4 +1,4 @@
-![[Images/mysterychalldesc.png]]
+![image](/CSAW-CTF-2024-Qualifiers/OSINT/Images/mysterychalldesc.png)
 
 First we need to look at the band in which the producer was of in 1992, after looking at his wikipedia page we see that the band is called P-model.
 
