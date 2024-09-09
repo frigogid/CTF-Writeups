@@ -1,4 +1,4 @@
-This was probably the most controversial OSINT chall of this ctf, personally I liked it a lot I found it pretty original.
+This was probably the most controversial OSINT chall of this ctf, personally I liked it a lot and I found it pretty original.
 
 ![image](/CSAW-CTF-2024-Qualifiers/OSINT/Images/1984challdesc.png)
 
