@@ -1,4 +1,4 @@
-!(/CSAW CTF 2024 Qualifiers/OSINT/Images/pandachalldesc.png)
+!![PDF Header in strings](/CSAW CTF 2024 Qualifiers/OSINT/Images/pandachalldesc.png)
 
 On the top right corner of the picture we can see a phone number, after a quick google search we realise the number is from NewYork.
 
