@@ -1,10 +1,10 @@
-![[CSAW CTF 2024 Qualifiers/OSINT/Images/pandachalldesc.png]]
+![[/CSAW CTF 2024 Qualifiers/OSINT/Images/pandachalldesc.png]]
 
 On the top right corner of the picture we can see a phone number, after a quick google search we realise the number is from NewYork.
 
 We can then search on google maps "Panda Express New York" and we will find the one corresponding to the picture above.
 
-![[CSAW CTF 2024 Qualifiers/OSINT/Images/pandapicture.png]]
+![[/CSAW CTF 2024 Qualifiers/OSINT/Images/pandapicture.png]]
 
 It's address is : 423 Fulton St, Brooklyn, NY 11201
 
