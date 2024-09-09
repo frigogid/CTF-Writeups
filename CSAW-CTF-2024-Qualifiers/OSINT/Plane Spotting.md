@@ -1,4 +1,4 @@
-![[Images/planespot.png]]
+![image](/CSAW-CTF-2024-Qualifiers/OSINT/Images/planespot.png)
 
 A google search about this incident brings us to this article:
 https://meidasnews.com/news/trump-plane-seen-parked-next-to-russian-government-plane-for-two-days
@@ -14,7 +14,7 @@ In the articles above we also find out that the airport where Trump's airplane w
 After searching a bit more we find this article talking about the Russian airplane with a tweet which shows the registration number:
 https://dailywrap.uk/russian-planes-unexpected-visit-to-the-us-raises-questions,7043084396886145a
 
-![[Images/ruplane.jpg]]
+![image](/CSAW-CTF-2024-Qualifiers/OSINT/Images/ruplane.jpg)
 
 The registration number is RA-96018
 
@@ -30,10 +30,10 @@ It's reg number is RA-96019, just one digit above the previous one.
 I decide to look at it's flight history:
 
 https://fr.flightaware.com/live/flight/RA96019/history
-![[Images/historyflight.png]]
+![image](/CSAW-CTF-2024-Qualifiers/OSINT/Images/historyflight.png)
 
 This plane was flying in the US at 21:07 so it it looks like I'm on right track, let's have a closer look at this.
-![[planecitynear.png]]
+![image](/CSAW-CTF-2024-Qualifiers/OSINT/Images/planecitynear.png)
 
 After looking at the plane's position on google maps we see that the nearest city is Trenton.
 
